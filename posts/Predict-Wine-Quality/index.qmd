@@ -1,6 +1,8 @@
 ---
 title: "Predict Wine Quality: How Data Science Can Help You Choose Better Wine"
 author: Zoe Ren
+date: "2025-01-18"
+categories: [analysis]
 ---
 
 ## The World of Wine and … Data Science!

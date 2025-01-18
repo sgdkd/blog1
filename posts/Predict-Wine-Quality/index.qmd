@@ -9,7 +9,7 @@ categories: [analysis]
 
 Imagine yourself walking into a wine shop, facing hundreds of bottles, each with a different label and price tag. How do you pick the right one? Most of us rely on our taste experience, or perhaps the recommendation of an expert, but what if there was a way to predict the quality of wine based on science, not just subjective opinions?
 
-![wineshop](image/wine.jpg)
+![](image/wine.jpg)
 
 *(copyright holder:RapidEye)*
 
@@ -79,7 +79,7 @@ Once the data was prepared, we trained our logistic regression model using cross
 
 Finally, time to test our model! 
 
-![EVA](image/eva-congrats.png)
+![](image/eva-congrats.png)
 
 *(copyright holder:MDS)*
 
@@ -110,6 +110,10 @@ So, next time you’re picking out a bottle of wine, you can rely not just on ta
 
 ### Reference
 Aich, Al-Absi, S. 2018. A Classification Approach with Different Feature Sets to Predict the Quality of Different Types of Wine Using Machine Learning Techniques. https://doi.org/10.23919/ICACT.2018.8323674.
+
 Cortez, Cerdeira, P. 2009. Wine Quality [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C56S3T.
+
 Jain, Kaushik, K. 2023. “Machine Learning-Based Predictive Modelling for the Enhancement of Wine Quality.” Scientific Reports 13 (17042). https://doi.org/10.1038/s41598-023-44111-9.
+
 Kniazieva, Y. 2023, October 12. A Digital Sommelier: Machine Learning for Wine Quality Prediction. https://labelyourdata.com/articles/machine-learning-for-wine-quality-prediction.
+
